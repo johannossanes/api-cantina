@@ -1,6 +1,6 @@
-# API CONCURSO FENADOCE
+# API Cantina
 
-Uma api simples de aprendizado que simula o concruso da fenadoce.
+Uma api simples de aprendizado que simula cantina de escola
 
 ## Recursos
 
@@ -8,4 +8,7 @@ Uma api simples de aprendizado que simula o concruso da fenadoce.
 - Prisma
 - Zod
 - Mailtrap
-- Nodemailer 
+- Nodemailer
+
+# Implementação faltando:
+- Envio de e-mail após venda
